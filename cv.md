@@ -24,7 +24,7 @@ Skills:
   
  Experience:
  
- - test task from two sides  https://vovgreba.github.io/mico/ -git hub pages
+ - test task from two sides  https://github.com/vovgreba/micocin
  - small task Hotel-Booking  https://github.com/vovgreba/Hotel-Booking
  - landing page that is not yet finished  https://github.com/vovgreba/repair
  
