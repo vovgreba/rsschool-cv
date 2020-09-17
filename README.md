@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://vovgreba.github.io/rsschool-cv/cv
