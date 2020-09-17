@@ -13,11 +13,10 @@ Skills:
  - html 
  - css 
  - scss/sass
- - webpack
+ - gulp 
  - git
  - javascript (es6)
- - mysql
- - wordpress
+ 
  
  Code examples:
   
